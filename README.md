@@ -39,7 +39,7 @@ Multimodal Reasoning • Chain-of-Thought Prompting • Speech Translation • E
 | [Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio QA](https://arxiv.org/pdf/2503.11197) | NeurIPS 2024 | [![][github-icon]](link) | RL vs SFT comparison |
 | [Steering Language Model to Stable Speech Emotion Recognition via Contextual Perception and CoT](https://arxiv.org/pdf/2502.18186) | ICMI 2024 | [![][github-icon]](link) | Emotion recognition stability |
 
-## Research Areas 🌐
+## ▶ Research Areas 
 - **Multimodal Chain-of-Thought**  
   Exploring reasoning paths through audio-text interactions
 - **Speech Translation**  
@@ -49,15 +49,15 @@ Multimodal Reasoning • Chain-of-Thought Prompting • Speech Translation • E
 - **Efficient Architectures**  
   Optimizing model structures for real-time applications
 
-## Projects 🛠️
+## ▶ Projects 
 *Coming soon...*  
 [Submit your project!](CONTRIBUTING.md)
 
-## Datasets 🗂️
+## Datasets 📂
 *Coming soon...*  
 [Suggest a dataset!](CONTRIBUTING.md)
 
-## Contributing 🤝
+## Contributing 
 We welcome contributions! Please see our:
 - [Contribution Guidelines](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
@@ -74,7 +74,7 @@ This repository is licensed under [CC-BY-4.0](LICENSE).
 
 ---
 
-**Maintained with ❤️ by [Your Name]**  
-*Last updated: October 2023*
+**Maintained with ❤️ by [SK-HUANG]**  
+*Last updated: 2025/3/21*
 
 [github-icon]: https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub
